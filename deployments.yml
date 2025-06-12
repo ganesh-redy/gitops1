@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: one
-          image: ganesh6498/deploy3
+          image: ganesh6498/deploy1
           ports:
             - containerPort: 80
 
